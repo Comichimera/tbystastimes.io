@@ -1,0 +1,11 @@
+Time Explanation:
+3.18 is the fastest time with slow downs I've recorded.
+managed to get a 3.16 unrecorded also with slow downs.
+Not attempted to code a run with input tools, 
+but could probably go lower to 3.15-3.14 potentially,
+unless 3.16 is perfect, but it didn't really seem that hard to achieve,
+(only around 10-15 minutes of attempts, with 0.25x speed so I was doing 4 times less runs in that time span)
+so I can't really see 3.16 being unbeatable.
+
+Run Explanation:
+Jumps after around 9-11 frames
